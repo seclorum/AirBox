@@ -27,3 +27,11 @@ So, there will be more of that thought experimenting and less of the *"Is this r
 
 ## References
 - Kelly Kettle: https://www.kellykettle.com/eu/accessories
+
+## Screenshots
+![Regulator](screenshots/regulator1.png)
+![Sheath 2](screenshots/sheath2.png)
+![Sheath 1](screenshots/sheath1.png)
+![Airbox 1](screenshots/airbox1.png)
+![Integrated 1](screenshots/integrated1.png)
+

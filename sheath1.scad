@@ -17,6 +17,9 @@ air_box_width = 200;             // Width of the Air Box (mm)
 air_box_height = 100;            // Height of the Air Box (mm)
 plate_thickness = 1;             // Thickness of airflow regulator plates (mm)
 
+base_diameter = kettle_flue_diameter + 20; // Adjusted to be 20mm larger than the flue
+
+
 // Main function
 module sheathed_kelly_kettle() {
     // Kelly Kettle Simulacrum
